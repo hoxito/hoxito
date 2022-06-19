@@ -5,7 +5,7 @@
 
  Mail: Josearanciba09@gmail.com 
 
- Linkedin: [jose-aranciba](LinkedIn.com/in/jose-aranciba)
+ Linkedin: [jose-aranciba](https://www.LinkedIn.com/in/jose-aranciba)
 
 <!---
 hoxito/hoxito is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
