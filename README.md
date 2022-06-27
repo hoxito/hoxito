@@ -3,10 +3,19 @@
 - 🌱 I’m currently learning artificial intelligence with python
 - 📫 How to reach me :
 
- Mail: Josearanciba09@gmail.com 
 
- Linkedin: [jose-aranciba](https://www.LinkedIn.com/in/jose-aranciba)
-
+<div id="badges">
+  <a href="https://www.LinkedIn.com/in/jose-aranciba">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="https://twitter.com/codecuyo">
+    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  </a>
+    <a href="mailto:name@email.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  
+</div>
 <!---
 hoxito/hoxito is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
