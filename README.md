@@ -31,7 +31,7 @@
 
 </div>
 </div>
-<img src="https://komarev.com/ghpvc/?username=hoxito&style=flat-square&color=blue" alt=""/>
+<p align="center"><img src="https://komarev.com/ghpvc/?username=hoxito&style=flat-square&color=blue" alt=""/>
 
 <hr/>
 <h3>Statistical Data :</h3>
