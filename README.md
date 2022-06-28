@@ -35,16 +35,15 @@
 
 <hr/>
 <h3>Statistical Data :</h3>
-<p><img align="center"
+<p align="center"><img align="center"
     src="https://github-readme-stats.vercel.app/api/top-langs?username=hoxito&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact"
     alt="jose" 
     bg_color=#808080/></p>
 <br>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hoxito&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&repo=convoychat"
-    alt="hoxito" /></p>
+<p>
 <a href="https://github.com/hoxito">
-          <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=hoxito&theme=dark&show_icons=true" />
-          <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=hoxito&theme=dark" />
+          <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=hoxito&show_icons=true&theme=tokyonight" />
+          <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=hoxito&theme=tokyonight" />
           </a>
 <br>
 <hr/>
