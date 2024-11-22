@@ -5,13 +5,9 @@
 <h4 align="center">A Systems Engineer</h4>
 </div>
 <div align="center">
-<li> I currently work as a Software Engineer at Thunes 
+<li> I currently work as a Tech Leader at Yape 
 <li>  Interested in cloud computing, web development and artificial intelligence
-<li> Realizing im not an expert at front end development, but at least I can center a div
-<li> Learning that centering a list is not a good idea
-<li> decided to learn artificial intelligence with python. anything but styles
 </div>
-<why is front end so hard?>
 <div>
 </div>
 <div align="center">
